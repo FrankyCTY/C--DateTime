@@ -1,0 +1,16 @@
+/home/tak/ownDev/Time/bin/Debug/net5.0/Time
+/home/tak/ownDev/Time/bin/Debug/net5.0/Time.deps.json
+/home/tak/ownDev/Time/bin/Debug/net5.0/Time.runtimeconfig.json
+/home/tak/ownDev/Time/bin/Debug/net5.0/Time.runtimeconfig.dev.json
+/home/tak/ownDev/Time/bin/Debug/net5.0/Time.dll
+/home/tak/ownDev/Time/bin/Debug/net5.0/ref/Time.dll
+/home/tak/ownDev/Time/bin/Debug/net5.0/Time.pdb
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.csproj.AssemblyReference.cache
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.GeneratedMSBuildEditorConfig.editorconfig
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.AssemblyInfoInputs.cache
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.AssemblyInfo.cs
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.csproj.CoreCompileInputs.cache
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.dll
+/home/tak/ownDev/Time/obj/Debug/net5.0/ref/Time.dll
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.pdb
+/home/tak/ownDev/Time/obj/Debug/net5.0/Time.genruntimeconfig.cache
